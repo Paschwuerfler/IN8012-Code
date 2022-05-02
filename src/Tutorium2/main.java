@@ -21,7 +21,7 @@ public class main {
         System.out.println();
 
         System.out.println("Wrapper types");
-        intWrapper iw = new intWrapper();
+        intWrapper iw = new intWrapper(4);
         iw.x = 4;
         System.out.println(iw.x);
         newIncrement(iw);
