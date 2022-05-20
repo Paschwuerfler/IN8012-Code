@@ -1,7 +1,7 @@
 package Blatt1;
 import java.lang.Math;
 
-public class edge {
+public class edge extends manager {
     point p1,p2;
     int id;
 

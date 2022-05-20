@@ -19,6 +19,9 @@ public class manager {
             point.print();
         }
 
+        p[0].toString();
+
+
         edge[] e;
         e = new edge[12];
 
