@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-27T11:38:25.450Z" agent="5.0 (Windows)" etag="F3pbv8ray1kxHAmgO3JE" version="20.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-27T12:31:30.270Z" agent="5.0 (Windows)" etag="XxipWa-gR6OwhUvhzboe" version="20.0.3" type="github">
   <diagram id="4rheyOznAyS8LiGPESLI" name="Page-1">
     <mxGraphModel dx="782" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -171,6 +171,9 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="250" y="380" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="ZvnZ3r_ltjKPsAShnKx8-75" value="&lt;div&gt;3 Typsiche Probleme von Datenbanken&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Versionkontrolle: &lt;br&gt;&lt;/div&gt;&lt;div&gt;Sind alle Daten immer aktuell? &lt;br&gt;&lt;/div&gt;&lt;div&gt;Was wurde wann geändert &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Mehrfachabspeicherung/Diskrepanzen&lt;/div&gt;&lt;div&gt;&lt;b&gt;REDUNDANZ&amp;nbsp; &lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Daten können mehrmals an verschiedenen stellen abgespeichert werden, es ist nicht einfach, sicherzustellen, dass immer an allen stellen daten akutalisiert werden, deshalb kann es zu diskrepanzen kommen &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="640" y="142" width="190" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
