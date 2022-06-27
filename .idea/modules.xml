@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/IN8012-Code.iml" filepath="$PROJECT_DIR$/IN8012-Code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/Tutorium5/singlylinkedlist/LinkedList.iml" filepath="$PROJECT_DIR$/src/Tutorium5/singlylinkedlist/LinkedList.iml" />
     </modules>
   </component>
 </project>
